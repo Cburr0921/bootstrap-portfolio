@@ -1,0 +1,15 @@
+html,
+body {
+  height: 100%;
+}
+
+main {
+  flex: 1 0 auto;
+background: url(../images/y-so-serious-white.png) fixed;
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { }
