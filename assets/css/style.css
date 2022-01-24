@@ -7,6 +7,17 @@ main {
   flex: 1 0 auto;
 background: url(../images/y-so-serious-white.png) fixed;
 }
+.gallery{
+    margin-bottom: 10px;
+}
+.gallery .card-body {
+    position:absolute;
+    bottom: 50px;
+    width: 100%;
+    background-color: aqua;
+    text-align: center; 
+    color: white;
+}
 
 /* // Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) { }
